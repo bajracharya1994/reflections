@@ -15,6 +15,8 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Ans: Git branch is helpful when we need to add new features to the project but you're not sure if it will work. So, if it doesn't work, you have an option to rollback to the previous working version.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
