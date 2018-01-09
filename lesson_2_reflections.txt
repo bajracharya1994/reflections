@@ -1,14 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Ans: Initializing a repository converts the directory we are working with to a directory with a version control. It creates a .git file which stores all of the changes we make. We need to do it to start controlling our changes and versions of our files.
+	Ans: Initializing a repository converts the directory we are working with to a directory with a version control. It creates a .git file which stores all of the changes we make. We need to do it to start controlling our changes and versions of our files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Ans: A staging area differs from working directory and repository in the sense that when we need to commit our changes, the files from working directory and repository is sent to an area for committing. It lets us to commit different files with different changes to be committed separately. 
+	Ans: A staging area differs from working directory and repository in the sense that when we need to commit our changes, the files from working directory and repository is sent to an area for committing. It lets us to commit different files with different changes to be committed separately. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	Ans: When you add files to the staged area, you can compare the staged files and the files from the recent commit to make sure that this is the change you want to make to the file. And with that you can have one commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
