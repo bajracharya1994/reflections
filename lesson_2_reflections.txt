@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Ans: When we merge two branches, the commits from one branch is merged into the other branch. This merged branch contains the commits from both the branches. When we use git log, the commits from both branches show, which is represented by the time they are committed, the timestamp.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
