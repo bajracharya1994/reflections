@@ -19,6 +19,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Ans: When we make a new branch, the commits get separated and make changes in the current branch. If there are many branches, its hard to track them. So, diagrams help us visualize where the branches are created and what changes are made to each branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
